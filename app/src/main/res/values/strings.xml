@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">BluetoothAndroid</string>
+
+    <string name="action_connect">Connect</string>
+    <string name="action_disconnect">Disconnect</string>
+    <string name="action_bluetooth">Bluetooth</string>
+
+    <string name="select_bluetooth_start_search">To search for new devices press \'Search for devices\'.</string>
+    <string name="select_bluetooth_cancel_search">To cancel searching for new devices press \'Cancel discovery\'.</string>
+    <string name="choose_device">Choose a bluetooth device from the list to establish a new connection.</string>
+    <string name="no_device_found">No device were found. Try again.</string>
+    <string name="title_activity_select_bluetooth">SelectBluetooth</string>
+
+    <string name="start_discovery">Search for devices</string>
+    <string name="cancel_discovery">Cancel discovery</string>
+
+    <string name="edit_message">Enter text</string>
+    <string name="button_send">Send</string>
+    <string name="bt_name">Choose a bluetooh device</string>
+</resources>
